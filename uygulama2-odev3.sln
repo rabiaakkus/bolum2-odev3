@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uygulama2-odev3", "uygulama2-odev3\uygulama2-odev3.csproj", "{680BF6DD-EC64-44C8-ACE3-E3E84111E9CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{680BF6DD-EC64-44C8-ACE3-E3E84111E9CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680BF6DD-EC64-44C8-ACE3-E3E84111E9CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680BF6DD-EC64-44C8-ACE3-E3E84111E9CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680BF6DD-EC64-44C8-ACE3-E3E84111E9CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D946A2A-E6FB-4E4C-A87F-8CE16D78DEE9}
+	EndGlobalSection
+EndGlobal
